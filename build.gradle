@@ -6,7 +6,7 @@ buildscript {
 		mavenLocal()
     	mavenCentral()
     	maven {
-		    url "http://www.riversdm.com:9090/nexus/content/groups/public/"
+		    url "http://maven.aliyun.com/nexus/content/groups/public/"
 		}
 	}
 	dependencies {
